@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-faena-app/static/css/main.241951ba.css",
+    "main.js": "/react-faena-app/static/js/main.4ad02759.js",
+    "static/js/787.d4aba7ab.chunk.js": "/react-faena-app/static/js/787.d4aba7ab.chunk.js",
+    "index.html": "/react-faena-app/index.html",
+    "main.241951ba.css.map": "/react-faena-app/static/css/main.241951ba.css.map",
+    "main.4ad02759.js.map": "/react-faena-app/static/js/main.4ad02759.js.map",
+    "787.d4aba7ab.chunk.js.map": "/react-faena-app/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.241951ba.css",
+    "static/js/main.4ad02759.js"
+  ]
+}
